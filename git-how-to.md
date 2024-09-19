@@ -1,1 +1,0 @@
-To create an **SSH key** use the terminal and type in the correct commands. Then using github add the keys to your account before then adding them to the terminal.
